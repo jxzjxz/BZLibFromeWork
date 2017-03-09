@@ -31,8 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'Pod/Classes'
-    s.ios.vendored_frameworks = 'Pod/Classes/Frameworks/BZLibFromeWork.framework'
-    s.public_header_files = 'Pod/Classes/Frameworks/BZLibFromeWork.framework/Headers/**/*.h'
+    s.ios.vendored_frameworks = 'Pod/Classes/Frameworks/BZLib.framework'
+    s.public_header_files = 'Pod/Classes/Frameworks/BZLib.framework/Headers/**/*.h'
 
   # s.resource_bundles = {
   #   'BZLib' => ['BZLib/Assets/*.png']
